@@ -1,9 +1,6 @@
 ## Hi, I'm Brianna 👋
 
-<!--
-**tillmanbrianna-eng/tillmanbrianna-eng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-I’m passionate about technology and enjoy learning how systems, cloud platforms, and IT infrastructure work behind the scenes. I’m currently focused on building practical skills through labs, projects, and certification studies while growing my experience in cloud and IT support.
+Aspiring Cloud and IT professional currently pursuing Azure certifications, including AZ-900, AZ-104, and AZ-500. Building hands-on skills in cloud computing, networking, security, and system administration through real-world projects.
 
 ## 🔧 Currently Working On
 - Azure cloud labs and projects  
@@ -24,5 +21,5 @@ I’m passionate about technology and enjoy learning how systems, cloud platform
 - Start a career in cloud or IT support  
 
 ## 📫 Connect With Me
-- LinkedIn: *(Add your LinkedIn link here)*  
-- GitHub: *(Your GitHub profile link)*  
+- LinkedIn:
+- GitHub:  
